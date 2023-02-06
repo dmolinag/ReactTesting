@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The <ProductStream /> component renders a list of Product tiles for each product passed to it 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-AxheI eOAkpz"
+  >
+    <div
+      class="sc-AxjAm iPShpD"
+      data-testid="ProductTile"
+    >
+      <div
+        class="sc-AxirZ fUTalh"
+      >
+        <img
+          alt="Adidas 1"
+          class="sc-AxiKw cShrNR"
+          data-testid="ProductTileImage"
+          src="http://localhost:3443./image.png"
+        />
+      </div>
+      <div
+        class="sc-AxgMl dtvmCV"
+      >
+        <div
+          class="sc-AxhCb iMwhLL"
+        >
+          Adidas 1
+        </div>
+        <div
+          class="sc-AxhUy dqKFMC"
+        >
+          from $12.99
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-AxjAm iPShpD"
+      data-testid="ProductTile"
+    >
+      <div
+        class="sc-AxirZ fUTalh"
+      >
+        <img
+          alt="Nike 1"
+          class="sc-AxiKw cShrNR"
+          data-testid="ProductTileImage"
+          src="http://localhost:3443./image-1.png"
+        />
+      </div>
+      <div
+        class="sc-AxgMl dtvmCV"
+      >
+        <div
+          class="sc-AxhCb iMwhLL"
+        >
+          Nike 1
+        </div>
+        <div
+          class="sc-AxhUy dqKFMC"
+        >
+          from $42.99
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
